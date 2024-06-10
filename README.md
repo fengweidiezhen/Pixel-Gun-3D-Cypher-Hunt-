@@ -1,9 +1,7 @@
 # Pixel-Gun-3D-Cypher-Hunt-
 This is the cypher hunt from the game Pixel Gun 3D, I'm trying to record all the puzzle and their solutions.
 
-===============================
-CYPHER HUNT. CYPHER NO.1
-===============================
+## CYPHER HUNT. CYPHER NO.1
 
 Puzzle: 
 The first cypher is already here: XQLVHUVH
@@ -11,9 +9,7 @@ The first cypher is already here: XQLVHUVH
 Solution:
 The answer is shown
 
-===============================
-CYPHER HUNT. CYPHER NO.2
-===============================
+## CYPHER HUNT. CYPHER NO.2
 
 Puzzle:
 20-15 2-1-20-20-12-5
@@ -31,20 +27,16 @@ Turn all the number to the alphabet characters.
 12 -> L
 5 -> E
 
-===============================
-CYPHER HUNT. CYPHER NO.3
-===============================
+## CYPHER HUNT. CYPHER NO.3
 
 Puzzle:
 
 Answer:
 EARTH
 
-Solution
+Solution:
 
-===============================
-CYPHER HUNT. CYPHER NO.4
-===============================
+## CYPHER HUNT. CYPHER NO.4
 
 Puzzle:
 HKZXV
