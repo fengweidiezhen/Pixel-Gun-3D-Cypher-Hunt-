@@ -30,11 +30,23 @@ Turn all the number to the alphabet characters.
 ## CYPHER HUNT. CYPHER NO.3
 
 Puzzle:
+15 11 42 44 23 (Poly. Bee. Us)
 
 Answer:
 EARTH
 
 Solution:
+Polybius Square (Poly. Bee. Us)：
+This hint is likely referring to the Polybius Square (an ancient Greek encryption method).
+Polybius Square usually uses a 5x5 letter square, where each letter corresponds to a two-digit coordinate. Here is an example:
+
+1 2 3 4 5
+A B C D E 1
+F G H I/J K 2
+L M N O P 3
+Q R S T U 4
+V W X Y Z 5
+
 
 ## CYPHER HUNT. CYPHER NO.4
 
