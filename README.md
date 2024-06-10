@@ -1,4 +1,4 @@
-# Pixel-Gun-3D-Cypher-Hunt-
+# Pixel_Gun_3D_Cypher_Hunt
 This is the cypher hunt from the game Pixel Gun 3D, I'm trying to record all the puzzle and their solutions.
 
 ## CYPHER HUNT. CYPHER NO.1
