@@ -53,3 +53,14 @@ V W X Y Z 5
 Puzzle:  
 HKZXV  
 
+Answer:
+I don't know the answer and it didn't give me the answer...
+If you know the answer please contact me maybe.
+
+## CYPHER HUNT. CYPHER NO.5
+
+Puzzle:  
+1: P L  
+2: I M  
+3: X A  
+4: E N  
